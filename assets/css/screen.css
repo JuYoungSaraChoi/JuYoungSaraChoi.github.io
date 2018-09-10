@@ -194,13 +194,13 @@ for small screen(<720px):
 #logo {
     position: absolute;
     top: 0;
-    left: -40px;
-    width: 425px;
+    left: 30px;
+    width: 212px;
     height: 65px;
     margin: 0 0;
     padding: 0;
     background: url(../images/pc/tech_logo.png) no-repeat center;
-    background-size: 283px 40px;
+    background-size: 212px 30px;
 }
 
 #menu {
