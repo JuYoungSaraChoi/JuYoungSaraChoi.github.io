@@ -194,9 +194,9 @@ for small screen(<720px):
 #logo {
     position: absolute;
     top: 0;
-    left: 802px;
-    width: 123px;
-    height: 113.4px;
+    left: 30px;
+    width: 402px;
+    height: 57px;
     margin: 0 0;
     padding: 0;
     background: url(../images/pc/tech_logo.png) no-repeat center;
