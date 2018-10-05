@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '이리의 초보 프로그래밍 일기 1'
-author: computer
+author: Computer
 date: 2018-09-23 18:30
 tags: [python,coding,programming]
 image: /files/covers/hello.jpg
