@@ -1,5 +1,5 @@
 ---
-name: business
-title: Business
+name: Business
+title: business
 image: /files/authors/business.jpg
 ---
