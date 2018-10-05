@@ -1,5 +1,5 @@
 ---
 name: computer
-title: computer
+title: Computer
 image: /files/authors/computer.jpg
 ---
