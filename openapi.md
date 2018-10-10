@@ -1,7 +1,7 @@
 ---
 layout: page
 title: who am I?
-image: /files/covers/timeline.png
+image: /files/covers/timeline.jpg
 permalink: /openapi/
 sitemap: yes
 excerpt: This is me!
